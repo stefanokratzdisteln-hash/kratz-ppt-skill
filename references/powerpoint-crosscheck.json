@@ -1,0 +1,654 @@
+{
+  "method": "Match slide shapes in z order; compare XML bounds in pt against PowerPoint COM. Compare nonspace source text, not summed COM formula Runs, which contain duplicate composite math ranges.",
+  "slides": [
+    {
+      "slide": 1,
+      "com_object_count": 5,
+      "xml_object_count": 5,
+      "com_visible_solid_black_mask_count": 1,
+      "xml_explicit_solid_black_mask_count": 1,
+      "object_matches": [
+        {
+          "com_name": "Picture 4",
+          "ooxml_shape_id": "5",
+          "geometry_max_absolute_error_pt": 2.9892808811382565e-05,
+          "nonspace_text_equal": true,
+          "com_nonspace_characters": 0,
+          "xml_nonspace_characters": 0
+        },
+        {
+          "com_name": "Rectangle 5",
+          "ooxml_shape_id": "6",
+          "geometry_max_absolute_error_pt": 1.1726439424819546e-05,
+          "nonspace_text_equal": true,
+          "com_nonspace_characters": 0,
+          "xml_nonspace_characters": 0
+        },
+        {
+          "com_name": "TextBox 6",
+          "ooxml_shape_id": "7",
+          "geometry_max_absolute_error_pt": 1.1726439424819546e-05,
+          "nonspace_text_equal": true,
+          "com_nonspace_characters": 14,
+          "xml_nonspace_characters": 14
+        },
+        {
+          "com_name": "TextBox 7",
+          "ooxml_shape_id": "8",
+          "geometry_max_absolute_error_pt": 1.5282818708328705e-05,
+          "nonspace_text_equal": true,
+          "com_nonspace_characters": 7,
+          "xml_nonspace_characters": 7
+        },
+        {
+          "com_name": "TextBox 9",
+          "ooxml_shape_id": "10",
+          "geometry_max_absolute_error_pt": 6.29575231414492e-06,
+          "nonspace_text_equal": true,
+          "com_nonspace_characters": 19,
+          "xml_nonspace_characters": 19
+        }
+      ]
+    },
+    {
+      "slide": 2,
+      "com_object_count": 6,
+      "xml_object_count": 6,
+      "com_visible_solid_black_mask_count": 3,
+      "xml_explicit_solid_black_mask_count": 3,
+      "object_matches": [
+        {
+          "com_name": "Picture 2",
+          "ooxml_shape_id": "3",
+          "geometry_max_absolute_error_pt": 2.752829732344253e-05,
+          "nonspace_text_equal": true,
+          "com_nonspace_characters": 0,
+          "xml_nonspace_characters": 0
+        },
+        {
+          "com_name": "Rectangle 4",
+          "ooxml_shape_id": "5",
+          "geometry_max_absolute_error_pt": 2.9912032459833426e-05,
+          "nonspace_text_equal": true,
+          "com_nonspace_characters": 0,
+          "xml_nonspace_characters": 0
+        },
+        {
+          "com_name": "Rectangle 6",
+          "ooxml_shape_id": "7",
+          "geometry_max_absolute_error_pt": 2.752829732344253e-05,
+          "nonspace_text_equal": true,
+          "com_nonspace_characters": 25,
+          "xml_nonspace_characters": 25
+        },
+        {
+          "com_name": "Rectangle 10",
+          "ooxml_shape_id": "11",
+          "geometry_max_absolute_error_pt": 2.7643639327834535e-05,
+          "nonspace_text_equal": true,
+          "com_nonspace_characters": 0,
+          "xml_nonspace_characters": 0
+        },
+        {
+          "com_name": "TextBox 20",
+          "ooxml_shape_id": "21",
+          "geometry_max_absolute_error_pt": 9.55416459191838e-06,
+          "nonspace_text_equal": true,
+          "com_nonspace_characters": 196,
+          "xml_nonspace_characters": 196
+        },
+        {
+          "com_name": "Picture 22",
+          "ooxml_shape_id": "23",
+          "geometry_max_absolute_error_pt": 1.3821819663917267e-05,
+          "nonspace_text_equal": true,
+          "com_nonspace_characters": 0,
+          "xml_nonspace_characters": 0
+        }
+      ]
+    },
+    {
+      "slide": 3,
+      "com_object_count": 5,
+      "xml_object_count": 5,
+      "com_visible_solid_black_mask_count": 2,
+      "xml_explicit_solid_black_mask_count": 2,
+      "object_matches": [
+        {
+          "com_name": "Picture 2",
+          "ooxml_shape_id": "3",
+          "geometry_max_absolute_error_pt": 2.752829732344253e-05,
+          "nonspace_text_equal": true,
+          "com_nonspace_characters": 0,
+          "xml_nonspace_characters": 0
+        },
+        {
+          "com_name": "Rectangle 4",
+          "ooxml_shape_id": "5",
+          "geometry_max_absolute_error_pt": 2.9912032459833426e-05,
+          "nonspace_text_equal": true,
+          "com_nonspace_characters": 0,
+          "xml_nonspace_characters": 0
+        },
+        {
+          "com_name": "Rectangle 10",
+          "ooxml_shape_id": "11",
+          "geometry_max_absolute_error_pt": 1.812792197597446e-05,
+          "nonspace_text_equal": true,
+          "com_nonspace_characters": 0,
+          "xml_nonspace_characters": 0
+        },
+        {
+          "com_name": "Picture 3",
+          "ooxml_shape_id": "4",
+          "geometry_max_absolute_error_pt": 2.6067298222187674e-05,
+          "nonspace_text_equal": true,
+          "com_nonspace_characters": 0,
+          "xml_nonspace_characters": 0
+        },
+        {
+          "com_name": "TextBox 7",
+          "ooxml_shape_id": "8",
+          "geometry_max_absolute_error_pt": 3.455454901768462e-06,
+          "nonspace_text_equal": true,
+          "com_nonspace_characters": 8,
+          "xml_nonspace_characters": 8
+        }
+      ]
+    },
+    {
+      "slide": 4,
+      "com_object_count": 5,
+      "xml_object_count": 5,
+      "com_visible_solid_black_mask_count": 2,
+      "xml_explicit_solid_black_mask_count": 2,
+      "object_matches": [
+        {
+          "com_name": "Picture 2",
+          "ooxml_shape_id": "3",
+          "geometry_max_absolute_error_pt": 2.752829732344253e-05,
+          "nonspace_text_equal": true,
+          "com_nonspace_characters": 0,
+          "xml_nonspace_characters": 0
+        },
+        {
+          "com_name": "Rectangle 4",
+          "ooxml_shape_id": "5",
+          "geometry_max_absolute_error_pt": 2.9912032459833426e-05,
+          "nonspace_text_equal": true,
+          "com_nonspace_characters": 0,
+          "xml_nonspace_characters": 0
+        },
+        {
+          "com_name": "Rectangle 10",
+          "ooxml_shape_id": "11",
+          "geometry_max_absolute_error_pt": 1.812792197597446e-05,
+          "nonspace_text_equal": true,
+          "com_nonspace_characters": 0,
+          "xml_nonspace_characters": 0
+        },
+        {
+          "com_name": "TextBox 1",
+          "ooxml_shape_id": "2",
+          "geometry_max_absolute_error_pt": 1.1563038242456969e-05,
+          "nonspace_text_equal": true,
+          "com_nonspace_characters": 349,
+          "xml_nonspace_characters": 349
+        },
+        {
+          "com_name": "Picture 6",
+          "ooxml_shape_id": "7",
+          "geometry_max_absolute_error_pt": 2.6624784709383675e-05,
+          "nonspace_text_equal": true,
+          "com_nonspace_characters": 0,
+          "xml_nonspace_characters": 0
+        }
+      ]
+    },
+    {
+      "slide": 5,
+      "com_object_count": 5,
+      "xml_object_count": 5,
+      "com_visible_solid_black_mask_count": 2,
+      "xml_explicit_solid_black_mask_count": 2,
+      "object_matches": [
+        {
+          "com_name": "Picture 2",
+          "ooxml_shape_id": "3",
+          "geometry_max_absolute_error_pt": 2.752829732344253e-05,
+          "nonspace_text_equal": true,
+          "com_nonspace_characters": 0,
+          "xml_nonspace_characters": 0
+        },
+        {
+          "com_name": "Rectangle 4",
+          "ooxml_shape_id": "5",
+          "geometry_max_absolute_error_pt": 2.9912032459833426e-05,
+          "nonspace_text_equal": true,
+          "com_nonspace_characters": 0,
+          "xml_nonspace_characters": 0
+        },
+        {
+          "com_name": "Rectangle 10",
+          "ooxml_shape_id": "11",
+          "geometry_max_absolute_error_pt": 1.812792197597446e-05,
+          "nonspace_text_equal": true,
+          "com_nonspace_characters": 0,
+          "xml_nonspace_characters": 0
+        },
+        {
+          "com_name": "TextBox 1",
+          "ooxml_shape_id": "2",
+          "geometry_max_absolute_error_pt": 6.555271852448641e-06,
+          "nonspace_text_equal": true,
+          "com_nonspace_characters": 70,
+          "xml_nonspace_characters": 70
+        },
+        {
+          "com_name": "Picture 5",
+          "ooxml_shape_id": "6",
+          "geometry_max_absolute_error_pt": 1.4427365272240422e-05,
+          "nonspace_text_equal": true,
+          "com_nonspace_characters": 0,
+          "xml_nonspace_characters": 0
+        }
+      ]
+    },
+    {
+      "slide": 6,
+      "com_object_count": 4,
+      "xml_object_count": 4,
+      "com_visible_solid_black_mask_count": 2,
+      "xml_explicit_solid_black_mask_count": 2,
+      "object_matches": [
+        {
+          "com_name": "Picture 2",
+          "ooxml_shape_id": "3",
+          "geometry_max_absolute_error_pt": 2.752829732344253e-05,
+          "nonspace_text_equal": true,
+          "com_nonspace_characters": 0,
+          "xml_nonspace_characters": 0
+        },
+        {
+          "com_name": "Rectangle 4",
+          "ooxml_shape_id": "5",
+          "geometry_max_absolute_error_pt": 2.9912032459833426e-05,
+          "nonspace_text_equal": true,
+          "com_nonspace_characters": 0,
+          "xml_nonspace_characters": 0
+        },
+        {
+          "com_name": "Rectangle 10",
+          "ooxml_shape_id": "11",
+          "geometry_max_absolute_error_pt": 1.812792197597446e-05,
+          "nonspace_text_equal": true,
+          "com_nonspace_characters": 0,
+          "xml_nonspace_characters": 0
+        },
+        {
+          "com_name": "TextBox 1",
+          "ooxml_shape_id": "2",
+          "geometry_max_absolute_error_pt": 6.555271852448641e-06,
+          "nonspace_text_equal": true,
+          "com_nonspace_characters": 179,
+          "xml_nonspace_characters": 179
+        }
+      ]
+    },
+    {
+      "slide": 7,
+      "com_object_count": 5,
+      "xml_object_count": 5,
+      "com_visible_solid_black_mask_count": 2,
+      "xml_explicit_solid_black_mask_count": 2,
+      "object_matches": [
+        {
+          "com_name": "Picture 2",
+          "ooxml_shape_id": "3",
+          "geometry_max_absolute_error_pt": 2.752829732344253e-05,
+          "nonspace_text_equal": true,
+          "com_nonspace_characters": 0,
+          "xml_nonspace_characters": 0
+        },
+        {
+          "com_name": "Rectangle 4",
+          "ooxml_shape_id": "5",
+          "geometry_max_absolute_error_pt": 2.9912032459833426e-05,
+          "nonspace_text_equal": true,
+          "com_nonspace_characters": 0,
+          "xml_nonspace_characters": 0
+        },
+        {
+          "com_name": "Rectangle 10",
+          "ooxml_shape_id": "11",
+          "geometry_max_absolute_error_pt": 1.812792197597446e-05,
+          "nonspace_text_equal": true,
+          "com_nonspace_characters": 0,
+          "xml_nonspace_characters": 0
+        },
+        {
+          "com_name": "TextBox 1",
+          "ooxml_shape_id": "2",
+          "geometry_max_absolute_error_pt": 6.555271852448641e-06,
+          "nonspace_text_equal": true,
+          "com_nonspace_characters": 118,
+          "xml_nonspace_characters": 118
+        },
+        {
+          "com_name": "Picture 7",
+          "ooxml_shape_id": "8",
+          "geometry_max_absolute_error_pt": 9.304256877840089e-06,
+          "nonspace_text_equal": true,
+          "com_nonspace_characters": 0,
+          "xml_nonspace_characters": 0
+        }
+      ]
+    },
+    {
+      "slide": 8,
+      "com_object_count": 4,
+      "xml_object_count": 4,
+      "com_visible_solid_black_mask_count": 1,
+      "xml_explicit_solid_black_mask_count": 1,
+      "object_matches": [
+        {
+          "com_name": "Picture 3",
+          "ooxml_shape_id": "4",
+          "geometry_max_absolute_error_pt": 1.770500125530816e-05,
+          "nonspace_text_equal": true,
+          "com_nonspace_characters": 0,
+          "xml_nonspace_characters": 0
+        },
+        {
+          "com_name": "Rectangle 6",
+          "ooxml_shape_id": "7",
+          "geometry_max_absolute_error_pt": 4.78669414860633e-06,
+          "nonspace_text_equal": true,
+          "com_nonspace_characters": 0,
+          "xml_nonspace_characters": 0
+        },
+        {
+          "com_name": "TextBox 8",
+          "ooxml_shape_id": "9",
+          "geometry_max_absolute_error_pt": 1.0457677149133815e-05,
+          "nonspace_text_equal": true,
+          "com_nonspace_characters": 14,
+          "xml_nonspace_characters": 14
+        },
+        {
+          "com_name": "Picture 10",
+          "ooxml_shape_id": "11",
+          "geometry_max_absolute_error_pt": 8.256566786712938e-06,
+          "nonspace_text_equal": true,
+          "com_nonspace_characters": 0,
+          "xml_nonspace_characters": 0
+        }
+      ]
+    },
+    {
+      "slide": 9,
+      "com_object_count": 7,
+      "xml_object_count": 7,
+      "com_visible_solid_black_mask_count": 1,
+      "xml_explicit_solid_black_mask_count": 1,
+      "object_matches": [
+        {
+          "com_name": "Picture 3",
+          "ooxml_shape_id": "4",
+          "geometry_max_absolute_error_pt": 1.770500125530816e-05,
+          "nonspace_text_equal": true,
+          "com_nonspace_characters": 0,
+          "xml_nonspace_characters": 0
+        },
+        {
+          "com_name": "Rectangle 6",
+          "ooxml_shape_id": "7",
+          "geometry_max_absolute_error_pt": 4.78669414860633e-06,
+          "nonspace_text_equal": true,
+          "com_nonspace_characters": 0,
+          "xml_nonspace_characters": 0
+        },
+        {
+          "com_name": "TextBox 8",
+          "ooxml_shape_id": "9",
+          "geometry_max_absolute_error_pt": 8.256566786712938e-06,
+          "nonspace_text_equal": true,
+          "com_nonspace_characters": 43,
+          "xml_nonspace_characters": 43
+        },
+        {
+          "com_name": "Picture 2",
+          "ooxml_shape_id": "3",
+          "geometry_max_absolute_error_pt": 1.0380782498486951e-05,
+          "nonspace_text_equal": true,
+          "com_nonspace_characters": 0,
+          "xml_nonspace_characters": 0
+        },
+        {
+          "com_name": "TextBox 4",
+          "ooxml_shape_id": "5",
+          "geometry_max_absolute_error_pt": 7.338636493159356e-06,
+          "nonspace_text_equal": true,
+          "com_nonspace_characters": 93,
+          "xml_nonspace_characters": 93
+        },
+        {
+          "com_name": "TextBox 5",
+          "ooxml_shape_id": "6",
+          "geometry_max_absolute_error_pt": 1.2812576869691839e-05,
+          "nonspace_text_equal": true,
+          "com_nonspace_characters": 26,
+          "xml_nonspace_characters": 26
+        },
+        {
+          "com_name": "TextBox 7",
+          "ooxml_shape_id": "8",
+          "geometry_max_absolute_error_pt": 1.4331246916299278e-05,
+          "nonspace_text_equal": true,
+          "com_nonspace_characters": 40,
+          "xml_nonspace_characters": 40
+        }
+      ]
+    },
+    {
+      "slide": 10,
+      "com_object_count": 5,
+      "xml_object_count": 5,
+      "com_visible_solid_black_mask_count": 1,
+      "xml_explicit_solid_black_mask_count": 1,
+      "object_matches": [
+        {
+          "com_name": "Picture 3",
+          "ooxml_shape_id": "4",
+          "geometry_max_absolute_error_pt": 1.770500125530816e-05,
+          "nonspace_text_equal": true,
+          "com_nonspace_characters": 0,
+          "xml_nonspace_characters": 0
+        },
+        {
+          "com_name": "Rectangle 6",
+          "ooxml_shape_id": "7",
+          "geometry_max_absolute_error_pt": 5.901667122998333e-06,
+          "nonspace_text_equal": true,
+          "com_nonspace_characters": 0,
+          "xml_nonspace_characters": 0
+        },
+        {
+          "com_name": "TextBox 8",
+          "ooxml_shape_id": "9",
+          "geometry_max_absolute_error_pt": 6.05545645271377e-06,
+          "nonspace_text_equal": true,
+          "com_nonspace_characters": 43,
+          "xml_nonspace_characters": 43
+        },
+        {
+          "com_name": "TextBox 4",
+          "ooxml_shape_id": "5",
+          "geometry_max_absolute_error_pt": 6.487989054448917e-06,
+          "nonspace_text_equal": true,
+          "com_nonspace_characters": 139,
+          "xml_nonspace_characters": 139
+        },
+        {
+          "com_name": "Picture 9",
+          "ooxml_shape_id": "10",
+          "geometry_max_absolute_error_pt": 7.07431104274292e-06,
+          "nonspace_text_equal": true,
+          "com_nonspace_characters": 0,
+          "xml_nonspace_characters": 0
+        }
+      ]
+    },
+    {
+      "slide": 11,
+      "com_object_count": 5,
+      "xml_object_count": 5,
+      "com_visible_solid_black_mask_count": 2,
+      "xml_explicit_solid_black_mask_count": 2,
+      "object_matches": [
+        {
+          "com_name": "Picture 3",
+          "ooxml_shape_id": "4",
+          "geometry_max_absolute_error_pt": 1.770500125530816e-05,
+          "nonspace_text_equal": true,
+          "com_nonspace_characters": 0,
+          "xml_nonspace_characters": 0
+        },
+        {
+          "com_name": "Rectangle 4",
+          "ooxml_shape_id": "5",
+          "geometry_max_absolute_error_pt": 1.1618615818791492e-12,
+          "nonspace_text_equal": true,
+          "com_nonspace_characters": 0,
+          "xml_nonspace_characters": 0
+        },
+        {
+          "com_name": "TextBox 6",
+          "ooxml_shape_id": "7",
+          "geometry_max_absolute_error_pt": 5.901667066154914e-06,
+          "nonspace_text_equal": true,
+          "com_nonspace_characters": 10,
+          "xml_nonspace_characters": 10
+        },
+        {
+          "com_name": "Rectangle 9",
+          "ooxml_shape_id": "10",
+          "geometry_max_absolute_error_pt": 2.364511544783454e-06,
+          "nonspace_text_equal": true,
+          "com_nonspace_characters": 0,
+          "xml_nonspace_characters": 0
+        },
+        {
+          "com_name": "TextBox 7",
+          "ooxml_shape_id": "8",
+          "geometry_max_absolute_error_pt": 5.901667122998333e-06,
+          "nonspace_text_equal": true,
+          "com_nonspace_characters": 183,
+          "xml_nonspace_characters": 183
+        }
+      ]
+    },
+    {
+      "slide": 12,
+      "com_object_count": 5,
+      "xml_object_count": 5,
+      "com_visible_solid_black_mask_count": 2,
+      "xml_explicit_solid_black_mask_count": 2,
+      "object_matches": [
+        {
+          "com_name": "Picture 3",
+          "ooxml_shape_id": "4",
+          "geometry_max_absolute_error_pt": 1.770500125530816e-05,
+          "nonspace_text_equal": true,
+          "com_nonspace_characters": 0,
+          "xml_nonspace_characters": 0
+        },
+        {
+          "com_name": "Rectangle 4",
+          "ooxml_shape_id": "5",
+          "geometry_max_absolute_error_pt": 1.1618615818791492e-12,
+          "nonspace_text_equal": true,
+          "com_nonspace_characters": 0,
+          "xml_nonspace_characters": 0
+        },
+        {
+          "com_name": "TextBox 6",
+          "ooxml_shape_id": "7",
+          "geometry_max_absolute_error_pt": 1.1803334132309828e-05,
+          "nonspace_text_equal": true,
+          "com_nonspace_characters": 17,
+          "xml_nonspace_characters": 17
+        },
+        {
+          "com_name": "Rectangle 2",
+          "ooxml_shape_id": "3",
+          "geometry_max_absolute_error_pt": 5.901667066154914e-06,
+          "nonspace_text_equal": true,
+          "com_nonspace_characters": 0,
+          "xml_nonspace_characters": 0
+        },
+        {
+          "com_name": "TextBox 7",
+          "ooxml_shape_id": "8",
+          "geometry_max_absolute_error_pt": 6.247693164596058e-06,
+          "nonspace_text_equal": true,
+          "com_nonspace_characters": 158,
+          "xml_nonspace_characters": 158
+        }
+      ]
+    },
+    {
+      "slide": 13,
+      "com_object_count": 5,
+      "xml_object_count": 5,
+      "com_visible_solid_black_mask_count": 1,
+      "xml_explicit_solid_black_mask_count": 1,
+      "object_matches": [
+        {
+          "com_name": "Picture 4",
+          "ooxml_shape_id": "5",
+          "geometry_max_absolute_error_pt": 2.9892808811382565e-05,
+          "nonspace_text_equal": true,
+          "com_nonspace_characters": 0,
+          "xml_nonspace_characters": 0
+        },
+        {
+          "com_name": "Rectangle 5",
+          "ooxml_shape_id": "6",
+          "geometry_max_absolute_error_pt": 1.1726439424819546e-05,
+          "nonspace_text_equal": true,
+          "com_nonspace_characters": 0,
+          "xml_nonspace_characters": 0
+        },
+        {
+          "com_name": "TextBox 6",
+          "ooxml_shape_id": "7",
+          "geometry_max_absolute_error_pt": 1.1726439424819546e-05,
+          "nonspace_text_equal": true,
+          "com_nonspace_characters": 19,
+          "xml_nonspace_characters": 19
+        },
+        {
+          "com_name": "TextBox 7",
+          "ooxml_shape_id": "8",
+          "geometry_max_absolute_error_pt": 1.5282818708328705e-05,
+          "nonspace_text_equal": true,
+          "com_nonspace_characters": 7,
+          "xml_nonspace_characters": 7
+        },
+        {
+          "com_name": "TextBox 9",
+          "ooxml_shape_id": "10",
+          "geometry_max_absolute_error_pt": 6.29575231414492e-06,
+          "nonspace_text_equal": true,
+          "com_nonspace_characters": 19,
+          "xml_nonspace_characters": 19
+        }
+      ]
+    }
+  ],
+  "max_geometry_absolute_error_pt": 2.9912032459833426e-05,
+  "all_object_nonspace_texts_equal": true,
+  "com_shape_text_nonspace_total": 1796,
+  "xml_nonspace_total": 1796
+}

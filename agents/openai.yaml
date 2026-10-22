@@ -1,0 +1,4 @@
+interface:
+  display_name: "Kratz PPT Style"
+  short_description: "先收集标题作者并选高清绘画，再生成衬线排版、逐条出现的学术PPT"
+  default_prompt: "请使用 $kratz-ppt-skill，先给我制作前问题清单和至少5幅相关高清油画或坦培拉候选，选定后制作逐条出现的PPT。"

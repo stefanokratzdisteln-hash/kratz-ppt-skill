@@ -1,0 +1,184 @@
+{
+  "schema_version": 2,
+  "name": "kratz-ppt-skill",
+  "analysis_date": "2026-10-22",
+  "source": {
+    "reference": "assets/reference.pptx",
+    "sha256": "deaed7edc83508ec86226627f73913168b3f8be1c45cb8a23cc9c3ca198ebd1a",
+    "sample_slides": 13
+  },
+  "explicit_preferences": {
+    "background": "theme-related oil, tempera or comparable traditional painting; metaphor or association",
+    "overlay": "semitransparent black rectangles",
+    "english_body": "native hanging indent",
+    "visualization": "authentic paper screenshots preferred",
+    "preflight": "Provide a question checklist before creating a new deck; collect title and author information; reuse supplied answers",
+    "background_choice": {
+      "minimum_distinct_candidates": 5,
+      "media": [
+        "oil painting",
+        "tempera"
+      ],
+      "thematic_relevance_required": true,
+      "user_selects_before_layout": true,
+      "failed_download": "Keep verified artwork-page and available high-resolution-image URLs for user download"
+    },
+    "item_reveal": {
+      "first_item": "visible on slide entry; no entrance effect",
+      "later_items": "native PowerPoint Appear, sequential on-click",
+      "logical_item_unit": true,
+      "shown_items_remain_visible": true,
+      "slide_transition_is_not_item_animation": true
+    },
+    "background_download": {
+      "preferred_action": "Full resolution / Original file",
+      "original_bytes_preserved": true,
+      "preview_only_for_gallery": true,
+      "allow_automatic_thumbnail_fallback": false,
+      "full_hd_threshold_is_not_download_size": true,
+      "failure_action": "retain original URL and artwork page for manual download",
+      "verify_against_source_pixel_dimensions_when_available": true
+    }
+  },
+  "observed": {
+    "canvas": {
+      "width_emu": 12192000,
+      "height_emu": 6858000,
+      "width_inches": 13.3333333333,
+      "height_inches": 7.5,
+      "aspect_ratio": "16:9"
+    },
+    "fonts": {
+      "display": "Elephant",
+      "title": "Elephant",
+      "body": "Times New Roman",
+      "formula": "Cambria Math"
+    },
+    "font_size_pt": {
+      "display": 100,
+      "title": 40,
+      "long_title": 35,
+      "body": 28,
+      "case_body": 24,
+      "reflection_body": 30,
+      "metadata": 18,
+      "formula_declared": 28
+    },
+    "text_colors": {
+      "base": "#FFFFFF",
+      "blue": "#9DC3E6",
+      "green": "#A9D18E",
+      "pink": "#E080C0",
+      "orange": "#F4B183"
+    },
+    "text_color_character_basis": "1796 non-whitespace editable Unicode code points; excludes raster text",
+    "text_color_character_percent": {
+      "#FFFFFF": 65.81,
+      "#9DC3E6": 20.71,
+      "#A9D18E": 9.52,
+      "#E080C0": 3.12,
+      "#F4B183": 0.84
+    },
+    "overlay": {
+      "color": "#000000",
+      "single_layer_opacity": 0.5,
+      "single_layer_transparency": 0.5,
+      "overlap_two_layers_opacity": 0.75,
+      "overlap_two_layers_transparency": 0.25,
+      "count": 22,
+      "shape": "rectangle",
+      "line": "none"
+    },
+    "english_hanging": {
+      "body_paragraphs_using": 18,
+      "body_paragraphs_total": 18,
+      "marL_emu": 720000,
+      "indent_emu": -457200,
+      "left_cm": 2.0,
+      "first_line_offset_cm": -1.27,
+      "first_line_from_text_area_cm": 0.73,
+      "hanging_difference_pt": 36
+    },
+    "spacing": {
+      "explicit_fixed_line_pt": 33.6,
+      "explicit_fixed_line_body_paragraphs": 7,
+      "body_space_after_pt_counts": {
+        "0_default": 6,
+        "12": 8,
+        "18": 4
+      }
+    },
+    "imagery": {
+      "painting_background_instances": 13,
+      "distinct_paintings": 4,
+      "background_reuse_counts": [
+        2,
+        6,
+        3,
+        2
+      ],
+      "foreground_images": 8,
+      "handdrawn_diagrams": 5,
+      "identified_paper_captures": 2,
+      "research_result_image_origin_unconfirmed": 1
+    }
+  },
+  "recommended_defaults": {
+    "evidence_class": "generation recommendation; adjustable, not sample measurement",
+    "safe_margin_fraction": 0.05,
+    "chinese_title_font": "SimSun",
+    "chinese_title_bold": true,
+    "chinese_body_font": "SimSun",
+    "chinese_sizes": "inherit corresponding observed role size, then adapt layout",
+    "max_accent_colors_per_slide": 2,
+    "figure_capture_ppi_range": [
+      200,
+      300
+    ],
+    "source_caption_pt_range": [
+      16,
+      18
+    ],
+    "narrow_column_hanging_difference_pt_range": [
+      18,
+      24
+    ],
+    "default_body_line_pt_at_28pt": 33.6,
+    "default_body_space_after_pt": 12,
+    "concept_background_effective_opacity": 0.75,
+    "section_background_count_start_range": [
+      3,
+      5
+    ],
+    "background_target_pixels": [
+      1920,
+      1080
+    ]
+  },
+  "units": {
+    "font": "pt",
+    "normalized_geometry": "fractions of slide width/height",
+    "alpha": "opacity on 0..1; DrawingML alpha integer 0..100000"
+  },
+  "limitations": [
+    "Single reference deck, not a population estimate of personal preferences",
+    "No raster-text font measurement",
+    "No verified painting attribution or media classification",
+    "Geometry coverage does not subtract foreground occlusion",
+    "Inspect rendered output in target software"
+  ],
+  "workflow": {
+    "evidence_class": "explicit user requirements added 2026-10-22",
+    "order": [
+      "question_checklist",
+      "research_at_least_five_artwork_candidates",
+      "user_background_selection",
+      "author_slides",
+      "apply_native_appear",
+      "verify_layout_and_animation"
+    ],
+    "questionnaire": "preflight-and-background-choice.md",
+    "art_sourcing": "art-sourcing.md",
+    "animation": "appear-animation.md"
+  }
+}
