@@ -1,56 +1,56 @@
 # OOXML quantitative evidence
 
 Source: `assets/reference.pptx`
-SHA-256: `deaed7edc83508ec86226627f73913168b3f8be1c45cb8a23cc9c3ca198ebd1a`
+SHA-256: `b7145583b355c512489aa4505278730d2023967aed598c9475fd4273b2225eef`
 
 Scope: active slide-level Choice content. Raster image labels, notes and master sample text excluded.
 Character denominator includes spaces inside runs; excludes paragraph and manual line-break markers.
 Fonts are declared Latin typefaces, not verified render-time substitution. Role labels are reference-specific heuristics.
 
-13 slides; 13.333333 × 7.500000 inches; 66 active objects; 24 nonempty text objects; 33 nonempty paragraphs.
-109 ordinary runs / 2019 characters, plus 13 math runs / 29 characters.
+13 slides; 13.333333 × 7.500000 inches; 66 active objects; 22 nonempty text objects; 31 nonempty paragraphs.
+107 ordinary runs / 1977 characters, plus 13 math runs / 29 characters.
 
-Nonspace counterpart: 1796 total = 1770 ordinary + 26 math characters. Whitespace is removed with Python Unicode regex \s.
+Nonspace counterpart: 1758 total = 1732 ordinary + 26 math characters. Whitespace is removed with Python Unicode regex \s.
 
 ## Font and size distributions (all editable characters)
 
 | Attribute | Value | Characters | Share | Nonspace chars | Nonspace share | Objects containing |
 |---|---|---:|---:|---:|---:|---:|
-| Font | Times New Roman | 1751 | 85.50% | 1525 | 84.91% | 10 |
-| Font | Elephant | 268 | 13.09% | 245 | 13.64% | 13 |
-| Font | Cambria Math | 29 | 1.42% | 26 | 1.45% | 1 |
-| Size (pt) | 28.0 | 1062 | 51.86% | 938 | 52.23% | 6 |
-| Size (pt) | 30.0 | 401 | 19.58% | 341 | 18.99% | 2 |
-| Size (pt) | 24.0 | 317 | 15.48% | 272 | 15.14% | 3 |
-| Size (pt) | 35.0 | 96 | 4.69% | 86 | 4.79% | 2 |
-| Size (pt) | 40.0 | 80 | 3.91% | 74 | 4.12% | 5 |
-| Size (pt) | 18.0 | 56 | 2.73% | 52 | 2.90% | 4 |
-| Size (pt) | 100.0 | 36 | 1.76% | 33 | 1.84% | 2 |
-| Color (#) | FFFFFF | 1381 | 67.43% | 1182 | 65.81% | 23 |
-| Color (#) | 9DC3E6 | 408 | 19.92% | 372 | 20.71% | 8 |
-| Color (#) | A9D18E | 182 | 8.89% | 171 | 9.52% | 10 |
-| Color (#) | E080C0 | 61 | 2.98% | 56 | 3.12% | 3 |
-| Color (#) | F4B183 | 16 | 0.78% | 15 | 0.84% | 2 |
+| Font | Times New Roman | 1751 | 87.29% | 1525 | 86.75% | 10 |
+| Font | Elephant | 226 | 11.27% | 207 | 11.77% | 11 |
+| Font | Cambria Math | 29 | 1.45% | 26 | 1.48% | 1 |
+| Size (pt) | 28.0 | 1062 | 52.94% | 938 | 53.36% | 6 |
+| Size (pt) | 30.0 | 401 | 19.99% | 341 | 19.40% | 2 |
+| Size (pt) | 24.0 | 317 | 15.80% | 272 | 15.47% | 3 |
+| Size (pt) | 35.0 | 96 | 4.79% | 86 | 4.89% | 2 |
+| Size (pt) | 40.0 | 80 | 3.99% | 74 | 4.21% | 5 |
+| Size (pt) | 100.0 | 36 | 1.79% | 33 | 1.88% | 2 |
+| Size (pt) | 18.0 | 14 | 0.70% | 14 | 0.80% | 2 |
+| Color (#) | FFFFFF | 1339 | 66.75% | 1144 | 65.07% | 21 |
+| Color (#) | 9DC3E6 | 408 | 20.34% | 372 | 21.16% | 8 |
+| Color (#) | A9D18E | 182 | 9.07% | 171 | 9.73% | 10 |
+| Color (#) | E080C0 | 61 | 3.04% | 56 | 3.19% | 3 |
+| Color (#) | F4B183 | 16 | 0.80% | 15 | 0.85% | 2 |
 
-Objects-containing counts overlap. Dominant-font counts instead assign one vote to each text object: {"Elephant": 13, "Times New Roman": 10, "Cambria Math": 1}
+Objects-containing counts overlap. Dominant-font counts instead assign one vote to each text object: {"Elephant": 11, "Times New Roman": 10, "Cambria Math": 1}
 
 ## Per-slide geometry and density
 
-| Slide | Editable chars | Regex words | Text boxes | Pictures | Black masks | Single layer 50% area | Double layer 75% area | Mask union | Text-box union |
-|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| 1 | 43 | 6 | 3 | 1 | 1 | 44.35% | 0.00% | 44.35% | 45.64% |
-| 2 | 253 | 34 | 2 | 2 | 3 | 16.44% | 83.56% | 100.00% | 48.93% |
-| 3 | 8 | 1 | 1 | 2 | 2 | 0.05% | 99.95% | 100.00% | 2.31% |
-| 4 | 391 | 50 | 1 | 2 | 2 | 0.05% | 99.95% | 100.00% | 53.82% |
-| 5 | 79 | 11 | 1 | 2 | 2 | 0.05% | 99.95% | 100.00% | 12.35% |
-| 6 | 203 | 28 | 1 | 1 | 2 | 0.05% | 99.95% | 100.00% | 30.56% |
-| 7 | 134 | 18 | 1 | 2 | 2 | 0.05% | 99.95% | 100.00% | 16.19% |
-| 8 | 17 | 4 | 1 | 2 | 1 | 50.68% | 0.00% | 50.68% | 3.99% |
-| 9 | 233 | 35 | 4 | 2 | 1 | 50.68% | 0.00% | 50.68% | 29.26% |
-| 10 | 209 | 30 | 2 | 2 | 1 | 79.01% | 0.00% | 79.01% | 26.12% |
-| 11 | 225 | 35 | 2 | 1 | 2 | 50.05% | 49.95% | 100.00% | 43.36% |
-| 12 | 204 | 32 | 2 | 1 | 2 | 56.54% | 43.46% | 100.00% | 33.79% |
-| 13 | 49 | 7 | 3 | 1 | 1 | 44.35% | 0.00% | 44.35% | 45.64% |
+| Slide | Editable chars | Regex words | Text boxes | Pictures | Black masks | Composite opacity: area | Mask union | Text-box union |
+|---|---:|---:|---:|---:|---:|---|---:|---:|
+| 1 | 22 | 3 | 2 | 1 | 1 | 50.00%: 44.35% | 44.35% | 44.61% |
+| 2 | 253 | 34 | 2 | 2 | 3 | 50.00%: 16.44%; 75.00%: 83.56% | 100.00% | 48.93% |
+| 3 | 8 | 1 | 1 | 2 | 2 | 50.00%: 0.05%; 75.00%: 99.95% | 100.00% | 2.31% |
+| 4 | 391 | 50 | 1 | 2 | 2 | 50.00%: 0.05%; 75.00%: 99.95% | 100.00% | 53.82% |
+| 5 | 79 | 11 | 1 | 2 | 2 | 50.00%: 0.05%; 75.00%: 99.95% | 100.00% | 12.35% |
+| 6 | 203 | 28 | 1 | 1 | 2 | 50.00%: 0.05%; 75.00%: 99.95% | 100.00% | 30.56% |
+| 7 | 134 | 18 | 1 | 2 | 2 | 50.00%: 0.05%; 75.00%: 99.95% | 100.00% | 16.19% |
+| 8 | 17 | 4 | 1 | 2 | 1 | 50.00%: 50.68% | 50.68% | 3.99% |
+| 9 | 233 | 35 | 4 | 2 | 1 | 50.00%: 50.68% | 50.68% | 29.26% |
+| 10 | 209 | 30 | 2 | 2 | 1 | 50.00%: 79.01% | 79.01% | 26.12% |
+| 11 | 225 | 35 | 2 | 1 | 2 | 50.00%: 50.05%; 75.00%: 49.95% | 100.00% | 43.36% |
+| 12 | 204 | 32 | 2 | 1 | 2 | 50.00%: 56.54%; 75.00%: 43.46% | 100.00% | 33.79% |
+| 13 | 28 | 4 | 2 | 1 | 1 | 50.00%: 44.35% | 44.35% | 44.61% |
 
 Areas are clipped to the slide. Text-box area is not ink area and is not an aesthetic whitespace score.
 
@@ -85,13 +85,11 @@ Sizes: 28.0 pt: 29 chars (100.00%)
 - Slide 9, shape 6, bounds inches [6.101462, 5.069555, 5.416668, 0.615536]: 'Δ𝐹=𝐹before\xa0NAC−𝐹after\xa0cycle\xa01'
 
 ### metadata
-4 objects, 56 characters, 0/4 nonempty paragraphs use hanging indentation.
-Sizes: 18.0 pt: 56 chars (100.00%)
+2 objects, 14 characters, 0/2 nonempty paragraphs use hanging indentation.
+Sizes: 18.0 pt: 14 chars (100.00%)
 
 - Slide 1, shape 8, bounds inches [9.879161, 4.944358, 2.957895, 0.403906]: 'AIE1903'
-- Slide 1, shape 10, bounds inches [9.05965, 5.348264, 3.808984, 0.403906]: 'LIU Chang (125090409)'
 - Slide 13, shape 8, bounds inches [9.879161, 4.944358, 2.957895, 0.403906]: 'AIE1903'
-- Slide 13, shape 10, bounds inches [9.05965, 5.348264, 3.808984, 0.403906]: 'LIU Chang (125090409)'
 
 ### slide_title
 7 objects, 176 characters, 0/7 nonempty paragraphs use hanging indentation.
@@ -107,15 +105,15 @@ Sizes: 35.0 pt: 96 chars (54.55%), 40.0 pt: 80 chars (45.45%)
 
 ## Paragraph measurements
 
-18/33 all nonempty paragraphs are hanging. The body-role denominator is separately given above.
-Left margin / first-line offset distribution (pt): {"(0.0, 0.0)": 14, "(108.0, 0.0)": 1, "(56.69291338582677, -36.0)": 18}
-Line spacing distribution: {"{\"kind\": \"default\", \"source\": \"OOXML_default\", \"value\": 1.0}": 25, "{\"kind\": \"spcPts\", \"raw\": 3360, \"source\": \"paragraph\", \"value\": 33.6}": 7, "{\"kind\": \"spcPct\", \"raw\": 100000, \"source\": \"paragraph\", \"value\": 1.0}": 1}
-Spacing before distribution: {"{\"kind\": \"default\", \"source\": \"OOXML_default\", \"value\": 0.0}": 33}
-Spacing after distribution: {"{\"kind\": \"default\", \"source\": \"OOXML_default\", \"value\": 0.0}": 21, "{\"kind\": \"spcPts\", \"raw\": 1200, \"source\": \"paragraph\", \"value\": 12.0}": 8, "{\"kind\": \"spcPts\", \"raw\": 1800, \"source\": \"paragraph\", \"value\": 18.0}": 4}
+18/31 all nonempty paragraphs are hanging. The body-role denominator is separately given above.
+Left margin / first-line offset distribution (pt): {"(0.0, 0.0)": 12, "(108.0, 0.0)": 1, "(56.69291338582677, -36.0)": 18}
+Line spacing distribution: {"{\"kind\": \"default\", \"source\": \"OOXML_default\", \"value\": 1.0}": 23, "{\"kind\": \"spcPts\", \"raw\": 3360, \"source\": \"paragraph\", \"value\": 33.6}": 7, "{\"kind\": \"spcPct\", \"raw\": 100000, \"source\": \"paragraph\", \"value\": 1.0}": 1}
+Spacing before distribution: {"{\"kind\": \"default\", \"source\": \"OOXML_default\", \"value\": 0.0}": 31}
+Spacing after distribution: {"{\"kind\": \"default\", \"source\": \"OOXML_default\", \"value\": 0.0}": 19, "{\"kind\": \"spcPts\", \"raw\": 1200, \"source\": \"paragraph\", \"value\": 12.0}": 8, "{\"kind\": \"spcPts\", \"raw\": 1800, \"source\": \"paragraph\", \"value\": 18.0}": 4}
 
 ## Mask and image measurements
 
-22 black rects; all explicit alpha=50000 (50% opacity / 50% transparency). 13 cover >=98% of the canvas after clipping.
+22 black rects; opacity-to-object-count distribution: {"0.5": 22}. 13 cover >=98% of the canvas after clipping.
 Composite alpha is 1 - product(1-alpha_i), hence two 50% black layers yield 75% opacity only in their overlap. Per-slide table gives exact clipped union and overlap.
 21 pictures use 12 distinct media parts; 13 pictures cover >=85% of the slide, a geometric background heuristic.
 5 pictures have explicit XML cropping; geometry may also place an image outside slide bounds. Screenshot font sizes and paper-source provenance cannot be inferred from bitmap placement.
@@ -125,5 +123,5 @@ Composite alpha is 1 - product(1-alpha_i), hence two 50% black layers yield 75% 
 Unknown editable font characters: 0; unknown font size: 0; unknown color: 0.
 Grouped objects requiring manual review: 0; graphic frames: 0; rotated objects: 0.
 This extractor targets ordinary ungrouped OOXML. For other decks, render and inspect if groups, charts, tables, custom color transforms, theme overrides or unusual placeholders are present. A group is counted as one object; its children are not recursively measured.
-CLI: python scripts/audit_pptx.py INPUT.pptx --output-dir OUTPUT_DIRECTORY
+CLI: python audit_pptx.py INPUT.pptx --output-dir OUTPUT_DIRECTORY
 Dependencies: Python, lxml, Pillow. It never modifies the source PPTX. Full XML locations and inheritance provenance are retained in ooxml_metrics.json.

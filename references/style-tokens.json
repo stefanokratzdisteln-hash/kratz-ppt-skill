@@ -4,8 +4,10 @@
   "analysis_date": "2026-10-22",
   "source": {
     "reference": "assets/reference.pptx",
-    "sha256": "deaed7edc83508ec86226627f73913168b3f8be1c45cb8a23cc9c3ca198ebd1a",
-    "sample_slides": 13
+    "sha256": "b7145583b355c512489aa4505278730d2023967aed598c9475fd4273b2225eef",
+    "sample_slides": 13,
+    "original_measured_sha256": "deaed7edc83508ec86226627f73913168b3f8be1c45cb8a23cc9c3ca198ebd1a",
+    "public_reference_note": "Author name and student identifier removed from first and last slides and file properties. Observed style statistics describe the original sample; current anonymized measurements are in sample-metrics.json."
   },
   "explicit_preferences": {
     "background": "theme-related oil, tempera or comparable traditional painting; metaphor or association",

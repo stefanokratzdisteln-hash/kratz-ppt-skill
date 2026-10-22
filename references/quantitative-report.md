@@ -1,6 +1,8 @@
 # Kratz PPT 视觉风格量化报告
 
-分析样本：`midterm LIU Chang 125090409.pptx.pptx`，共 13 页。分析日期：2026 年 10 月 22 日。
+> 公开版参考稿的首页与末页署名、学号及文件属性已匿名化。本报告保留匿名化前的样本统计；当前公开稿的实际统计见 [sample-measurements.md](sample-measurements.md) 和 [sample-metrics.json](sample-metrics.json)。
+
+分析样本：`reference.pptx`，共 13 页。分析日期：2026 年 10 月 22 日。
 
 ## 1. 执行结论与测量口径
 

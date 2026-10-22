@@ -1,6 +1,6 @@
 {
   "source": "assets/reference.pptx",
-  "source_sha256": "deaed7edc83508ec86226627f73913168b3f8be1c45cb8a23cc9c3ca198ebd1a",
+  "source_sha256": "b7145583b355c512489aa4505278730d2023967aed598c9475fd4273b2225eef",
   "methodology": {
     "scope": "Slide-level active Choice content; master/layout sample text, notes and raster labels excluded.",
     "character_weight": "Unicode code points inside text runs, including spaces; paragraph/line-break markers excluded.",
@@ -34,25 +34,25 @@
     "object_count": 66,
     "shape_count": 45,
     "picture_count": 21,
-    "text_object_count": 24,
+    "text_object_count": 22,
     "paragraph_count_including_empty": 59,
-    "nonempty_paragraph_count": 33,
-    "run_count": 122,
-    "ordinary_run_count": 109,
+    "nonempty_paragraph_count": 31,
+    "run_count": 120,
+    "ordinary_run_count": 107,
     "math_run_count": 13,
-    "editable_character_count": 2048,
-    "ordinary_character_count": 2019,
+    "editable_character_count": 2006,
+    "ordinary_character_count": 1977,
     "math_character_count": 29,
-    "editable_nonspace_character_count": 1796,
-    "ordinary_nonspace_character_count": 1770,
+    "editable_nonspace_character_count": 1758,
+    "ordinary_nonspace_character_count": 1732,
     "math_nonspace_character_count": 26,
     "font_distribution_all_editable": [
       {
         "value": "Times New Roman",
         "characters": 1751,
-        "character_fraction": 0.85498046875,
+        "character_fraction": 0.8728813559322034,
         "nonspace_characters": 1525,
-        "nonspace_character_fraction": 0.8491091314031181,
+        "nonspace_character_fraction": 0.8674630261660978,
         "runs": 92,
         "objects_containing": 10,
         "slides_containing": 9,
@@ -70,12 +70,12 @@
       },
       {
         "value": "Elephant",
-        "characters": 268,
-        "character_fraction": 0.130859375,
-        "nonspace_characters": 245,
-        "nonspace_character_fraction": 0.1364142538975501,
-        "runs": 17,
-        "objects_containing": 13,
+        "characters": 226,
+        "character_fraction": 0.11266201395812563,
+        "nonspace_characters": 207,
+        "nonspace_character_fraction": 0.11774744027303755,
+        "runs": 15,
+        "objects_containing": 11,
         "slides_containing": 9,
         "slides": [
           1,
@@ -92,9 +92,9 @@
       {
         "value": "Cambria Math",
         "characters": 29,
-        "character_fraction": 0.01416015625,
+        "character_fraction": 0.014456630109670987,
         "nonspace_characters": 26,
-        "nonspace_character_fraction": 0.014476614699331848,
+        "nonspace_character_fraction": 0.01478953356086462,
         "runs": 13,
         "objects_containing": 1,
         "slides_containing": 1,
@@ -107,9 +107,9 @@
       {
         "value": 28.0,
         "characters": 1062,
-        "character_fraction": 0.5185546875,
+        "character_fraction": 0.5294117647058824,
         "nonspace_characters": 938,
-        "nonspace_character_fraction": 0.522271714922049,
+        "nonspace_character_fraction": 0.5335608646188851,
         "runs": 72,
         "objects_containing": 6,
         "slides_containing": 6,
@@ -125,9 +125,9 @@
       {
         "value": 30.0,
         "characters": 401,
-        "character_fraction": 0.19580078125,
+        "character_fraction": 0.19990029910269191,
         "nonspace_characters": 341,
-        "nonspace_character_fraction": 0.18986636971046772,
+        "nonspace_character_fraction": 0.19397042093287828,
         "runs": 16,
         "objects_containing": 2,
         "slides_containing": 2,
@@ -139,9 +139,9 @@
       {
         "value": 24.0,
         "characters": 317,
-        "character_fraction": 0.15478515625,
+        "character_fraction": 0.1580259222333001,
         "nonspace_characters": 272,
-        "nonspace_character_fraction": 0.1514476614699332,
+        "nonspace_character_fraction": 0.1547212741751991,
         "runs": 17,
         "objects_containing": 3,
         "slides_containing": 2,
@@ -153,9 +153,9 @@
       {
         "value": 35.0,
         "characters": 96,
-        "character_fraction": 0.046875,
+        "character_fraction": 0.047856430707876374,
         "nonspace_characters": 86,
-        "nonspace_character_fraction": 0.04788418708240535,
+        "nonspace_character_fraction": 0.048919226393629126,
         "runs": 2,
         "objects_containing": 2,
         "slides_containing": 2,
@@ -167,9 +167,9 @@
       {
         "value": 40.0,
         "characters": 80,
-        "character_fraction": 0.0390625,
+        "character_fraction": 0.03988035892323031,
         "nonspace_characters": 74,
-        "nonspace_character_fraction": 0.04120267260579064,
+        "nonspace_character_fraction": 0.04209328782707622,
         "runs": 8,
         "objects_containing": 5,
         "slides_containing": 5,
@@ -182,13 +182,13 @@
         ]
       },
       {
-        "value": 18.0,
-        "characters": 56,
-        "character_fraction": 0.02734375,
-        "nonspace_characters": 52,
-        "nonspace_character_fraction": 0.028953229398663696,
-        "runs": 4,
-        "objects_containing": 4,
+        "value": 100.0,
+        "characters": 36,
+        "character_fraction": 0.01794616151545364,
+        "nonspace_characters": 33,
+        "nonspace_character_fraction": 0.01877133105802048,
+        "runs": 3,
+        "objects_containing": 2,
         "slides_containing": 2,
         "slides": [
           1,
@@ -196,12 +196,12 @@
         ]
       },
       {
-        "value": 100.0,
-        "characters": 36,
-        "character_fraction": 0.017578125,
-        "nonspace_characters": 33,
-        "nonspace_character_fraction": 0.018374164810690423,
-        "runs": 3,
+        "value": 18.0,
+        "characters": 14,
+        "character_fraction": 0.006979062811565304,
+        "nonspace_characters": 14,
+        "nonspace_character_fraction": 0.007963594994311717,
+        "runs": 2,
         "objects_containing": 2,
         "slides_containing": 2,
         "slides": [
@@ -213,12 +213,12 @@
     "color_distribution_all_editable": [
       {
         "value": "FFFFFF",
-        "characters": 1381,
-        "character_fraction": 0.67431640625,
-        "nonspace_characters": 1182,
-        "nonspace_character_fraction": 0.6581291759465479,
-        "runs": 72,
-        "objects_containing": 23,
+        "characters": 1339,
+        "character_fraction": 0.6674975074775673,
+        "nonspace_characters": 1144,
+        "nonspace_character_fraction": 0.6507394766780432,
+        "runs": 70,
+        "objects_containing": 21,
         "slides_containing": 13,
         "slides": [
           1,
@@ -239,9 +239,9 @@
       {
         "value": "9DC3E6",
         "characters": 408,
-        "character_fraction": 0.19921875,
+        "character_fraction": 0.2033898305084746,
         "nonspace_characters": 372,
-        "nonspace_character_fraction": 0.2071269487750557,
+        "nonspace_character_fraction": 0.21160409556313994,
         "runs": 30,
         "objects_containing": 8,
         "slides_containing": 8,
@@ -259,9 +259,9 @@
       {
         "value": "A9D18E",
         "characters": 182,
-        "character_fraction": 0.0888671875,
+        "character_fraction": 0.09072781655034895,
         "nonspace_characters": 171,
-        "nonspace_character_fraction": 0.09521158129175947,
+        "nonspace_character_fraction": 0.09726962457337884,
         "runs": 15,
         "objects_containing": 10,
         "slides_containing": 9,
@@ -280,9 +280,9 @@
       {
         "value": "E080C0",
         "characters": 61,
-        "character_fraction": 0.02978515625,
+        "character_fraction": 0.03040877367896311,
         "nonspace_characters": 56,
-        "nonspace_character_fraction": 0.031180400890868598,
+        "nonspace_character_fraction": 0.03185437997724687,
         "runs": 3,
         "objects_containing": 3,
         "slides_containing": 2,
@@ -294,9 +294,9 @@
       {
         "value": "F4B183",
         "characters": 16,
-        "character_fraction": 0.0078125,
+        "character_fraction": 0.007976071784646061,
         "nonspace_characters": 15,
-        "nonspace_character_fraction": 0.008351893095768375,
+        "nonspace_character_fraction": 0.008532423208191127,
         "runs": 2,
         "objects_containing": 2,
         "slides_containing": 2,
@@ -309,12 +309,12 @@
     "color_raw_distribution": [
       {
         "value": "{\"hex\": \"FFFFFF\", \"opacity\": 1.0, \"raw\": {\"val\": \"bg1\"}, \"raw_kind\": \"schemeClr\", \"transforms\": [], \"unsupported_transforms\": []}",
-        "characters": 1205,
-        "character_fraction": 0.58837890625,
-        "nonspace_characters": 1022,
-        "nonspace_character_fraction": 0.5690423162583519,
-        "runs": 62,
-        "objects_containing": 16,
+        "characters": 1163,
+        "character_fraction": 0.5797607178464607,
+        "nonspace_characters": 984,
+        "nonspace_character_fraction": 0.5597269624573379,
+        "runs": 60,
+        "objects_containing": 14,
         "slides_containing": 11,
         "slides": [
           1,
@@ -333,9 +333,9 @@
       {
         "value": "{\"hex\": \"9DC3E6\", \"opacity\": 1.0, \"raw\": {\"val\": \"accent5\"}, \"raw_kind\": \"schemeClr\", \"transforms\": [{\"type\": \"lumMod\", \"val\": \"60000\"}, {\"type\": \"lumOff\", \"val\": \"40000\"}], \"unsupported_transforms\": []}",
         "characters": 408,
-        "character_fraction": 0.19921875,
+        "character_fraction": 0.2033898305084746,
         "nonspace_characters": 372,
-        "nonspace_character_fraction": 0.2071269487750557,
+        "nonspace_character_fraction": 0.21160409556313994,
         "runs": 30,
         "objects_containing": 8,
         "slides_containing": 8,
@@ -353,9 +353,9 @@
       {
         "value": "{\"hex\": \"A9D18E\", \"opacity\": 1.0, \"raw\": {\"val\": \"accent6\"}, \"raw_kind\": \"schemeClr\", \"transforms\": [{\"type\": \"lumMod\", \"val\": \"60000\"}, {\"type\": \"lumOff\", \"val\": \"40000\"}], \"unsupported_transforms\": []}",
         "characters": 182,
-        "character_fraction": 0.0888671875,
+        "character_fraction": 0.09072781655034895,
         "nonspace_characters": 171,
-        "nonspace_character_fraction": 0.09521158129175947,
+        "nonspace_character_fraction": 0.09726962457337884,
         "runs": 15,
         "objects_containing": 10,
         "slides_containing": 9,
@@ -374,9 +374,9 @@
       {
         "value": "{\"hex\": \"FFFFFF\", \"opacity\": 1.0, \"raw\": {\"val\": \"white\"}, \"raw_kind\": \"prstClr\", \"transforms\": [], \"unsupported_transforms\": []}",
         "characters": 149,
-        "character_fraction": 0.07275390625,
+        "character_fraction": 0.07427716849451645,
         "nonspace_characters": 135,
-        "nonspace_character_fraction": 0.07516703786191536,
+        "nonspace_character_fraction": 0.07679180887372014,
         "runs": 6,
         "objects_containing": 6,
         "slides_containing": 6,
@@ -392,9 +392,9 @@
       {
         "value": "{\"hex\": \"E080C0\", \"opacity\": 1.0, \"raw\": {\"val\": \"E080C0\"}, \"raw_kind\": \"srgbClr\", \"transforms\": [], \"unsupported_transforms\": []}",
         "characters": 61,
-        "character_fraction": 0.02978515625,
+        "character_fraction": 0.03040877367896311,
         "nonspace_characters": 56,
-        "nonspace_character_fraction": 0.031180400890868598,
+        "nonspace_character_fraction": 0.03185437997724687,
         "runs": 3,
         "objects_containing": 3,
         "slides_containing": 2,
@@ -406,9 +406,9 @@
       {
         "value": "{\"hex\": \"FFFFFF\", \"opacity\": 1.0, \"raw\": {\"val\": \"lt1\"}, \"raw_kind\": \"schemeClr\", \"transforms\": [], \"unsupported_transforms\": []}",
         "characters": 27,
-        "character_fraction": 0.01318359375,
+        "character_fraction": 0.013459621136590228,
         "nonspace_characters": 25,
-        "nonspace_character_fraction": 0.013919821826280624,
+        "nonspace_character_fraction": 0.01422070534698521,
         "runs": 4,
         "objects_containing": 1,
         "slides_containing": 1,
@@ -419,9 +419,9 @@
       {
         "value": "{\"hex\": \"F4B183\", \"opacity\": 1.0, \"raw\": {\"val\": \"accent2\"}, \"raw_kind\": \"schemeClr\", \"transforms\": [{\"type\": \"lumMod\", \"val\": \"60000\"}, {\"type\": \"lumOff\", \"val\": \"40000\"}], \"unsupported_transforms\": []}",
         "characters": 16,
-        "character_fraction": 0.0078125,
+        "character_fraction": 0.007976071784646061,
         "nonspace_characters": 15,
-        "nonspace_character_fraction": 0.008351893095768375,
+        "nonspace_character_fraction": 0.008532423208191127,
         "runs": 2,
         "objects_containing": 2,
         "slides_containing": 2,
@@ -435,9 +435,9 @@
       {
         "value": "Times New Roman",
         "characters": 1751,
-        "character_fraction": 0.8672610203070827,
+        "character_fraction": 0.8856853818917552,
         "nonspace_characters": 1525,
-        "nonspace_character_fraction": 0.8615819209039548,
+        "nonspace_character_fraction": 0.8804849884526559,
         "runs": 92,
         "objects_containing": 10,
         "slides_containing": 9,
@@ -455,12 +455,12 @@
       },
       {
         "value": "Elephant",
-        "characters": 268,
-        "character_fraction": 0.13273897969291729,
-        "nonspace_characters": 245,
-        "nonspace_character_fraction": 0.1384180790960452,
-        "runs": 17,
-        "objects_containing": 13,
+        "characters": 226,
+        "character_fraction": 0.11431461810824481,
+        "nonspace_characters": 207,
+        "nonspace_character_fraction": 0.1195150115473441,
+        "runs": 15,
+        "objects_containing": 11,
         "slides_containing": 9,
         "slides": [
           1,
@@ -479,9 +479,9 @@
       {
         "value": 28.0,
         "characters": 1033,
-        "character_fraction": 0.5116394254581476,
+        "character_fraction": 0.52250885179565,
         "nonspace_characters": 912,
-        "nonspace_character_fraction": 0.5152542372881356,
+        "nonspace_character_fraction": 0.5265588914549654,
         "runs": 59,
         "objects_containing": 5,
         "slides_containing": 5,
@@ -496,9 +496,9 @@
       {
         "value": 30.0,
         "characters": 401,
-        "character_fraction": 0.1986131748390292,
+        "character_fraction": 0.2028325746079919,
         "nonspace_characters": 341,
-        "nonspace_character_fraction": 0.19265536723163842,
+        "nonspace_character_fraction": 0.19688221709006928,
         "runs": 16,
         "objects_containing": 2,
         "slides_containing": 2,
@@ -510,9 +510,9 @@
       {
         "value": 24.0,
         "characters": 317,
-        "character_fraction": 0.1570084200099059,
+        "character_fraction": 0.1603439554881133,
         "nonspace_characters": 272,
-        "nonspace_character_fraction": 0.1536723163841808,
+        "nonspace_character_fraction": 0.15704387990762125,
         "runs": 17,
         "objects_containing": 3,
         "slides_containing": 2,
@@ -524,9 +524,9 @@
       {
         "value": 35.0,
         "characters": 96,
-        "character_fraction": 0.0475482912332838,
+        "character_fraction": 0.048558421851289835,
         "nonspace_characters": 86,
-        "nonspace_character_fraction": 0.04858757062146893,
+        "nonspace_character_fraction": 0.049653579676674366,
         "runs": 2,
         "objects_containing": 2,
         "slides_containing": 2,
@@ -538,9 +538,9 @@
       {
         "value": 40.0,
         "characters": 80,
-        "character_fraction": 0.0396235760277365,
+        "character_fraction": 0.04046535154274153,
         "nonspace_characters": 74,
-        "nonspace_character_fraction": 0.04180790960451977,
+        "nonspace_character_fraction": 0.042725173210161664,
         "runs": 8,
         "objects_containing": 5,
         "slides_containing": 5,
@@ -553,13 +553,13 @@
         ]
       },
       {
-        "value": 18.0,
-        "characters": 56,
-        "character_fraction": 0.02773650321941555,
-        "nonspace_characters": 52,
-        "nonspace_character_fraction": 0.02937853107344633,
-        "runs": 4,
-        "objects_containing": 4,
+        "value": 100.0,
+        "characters": 36,
+        "character_fraction": 0.018209408194233688,
+        "nonspace_characters": 33,
+        "nonspace_character_fraction": 0.01905311778290993,
+        "runs": 3,
+        "objects_containing": 2,
         "slides_containing": 2,
         "slides": [
           1,
@@ -567,12 +567,12 @@
         ]
       },
       {
-        "value": 100.0,
-        "characters": 36,
-        "character_fraction": 0.017830609212481426,
-        "nonspace_characters": 33,
-        "nonspace_character_fraction": 0.01864406779661017,
-        "runs": 3,
+        "value": 18.0,
+        "characters": 14,
+        "character_fraction": 0.0070814365199797676,
+        "nonspace_characters": 14,
+        "nonspace_character_fraction": 0.008083140877598153,
+        "runs": 2,
         "objects_containing": 2,
         "slides_containing": 2,
         "slides": [
@@ -582,13 +582,13 @@
       }
     ],
     "font_dominant_object_distribution": {
-      "Elephant": 13,
+      "Elephant": 11,
       "Times New Roman": 10,
       "Cambria Math": 1
     },
     "size_dominant_object_distribution": {
       "100.0": 2,
-      "18.0": 4,
+      "18.0": 2,
       "40.0": 5,
       "28.0": 6,
       "35.0": 2,
@@ -600,24 +600,24 @@
     "nonempty_hanging_paragraphs": 18,
     "all_hanging_paragraphs": 21,
     "nonempty_paragraph_indent_distribution": {
-      "(0.0, 0.0)": 14,
+      "(0.0, 0.0)": 12,
       "(108.0, 0.0)": 1,
       "(56.69291338582677, -36.0)": 18
     },
     "nonempty_paragraph_alignment_distribution": {
       "l": 29,
-      "r": 4
+      "r": 2
     },
     "nonempty_line_spacing_distribution": {
-      "{\"kind\": \"default\", \"source\": \"OOXML_default\", \"value\": 1.0}": 25,
+      "{\"kind\": \"default\", \"source\": \"OOXML_default\", \"value\": 1.0}": 23,
       "{\"kind\": \"spcPts\", \"raw\": 3360, \"source\": \"paragraph\", \"value\": 33.6}": 7,
       "{\"kind\": \"spcPct\", \"raw\": 100000, \"source\": \"paragraph\", \"value\": 1.0}": 1
     },
     "nonempty_space_before_distribution": {
-      "{\"kind\": \"default\", \"source\": \"OOXML_default\", \"value\": 0.0}": 33
+      "{\"kind\": \"default\", \"source\": \"OOXML_default\", \"value\": 0.0}": 31
     },
     "nonempty_space_after_distribution": {
-      "{\"kind\": \"default\", \"source\": \"OOXML_default\", \"value\": 0.0}": 21,
+      "{\"kind\": \"default\", \"source\": \"OOXML_default\", \"value\": 0.0}": 19,
       "{\"kind\": \"spcPts\", \"raw\": 1200, \"source\": \"paragraph\", \"value\": 12.0}": 8,
       "{\"kind\": \"spcPts\", \"raw\": 1800, \"source\": \"paragraph\", \"value\": 18.0}": 4
     },
@@ -1083,19 +1083,19 @@
         ]
       },
       "metadata": {
-        "object_count": 4,
-        "characters": 56,
-        "nonempty_paragraph_count": 4,
+        "object_count": 2,
+        "characters": 14,
+        "nonempty_paragraph_count": 2,
         "hanging_paragraph_count": 0,
         "font_distribution": [
           {
             "value": "Elephant",
-            "characters": 56,
+            "characters": 14,
             "character_fraction": 1.0,
-            "nonspace_characters": 52,
+            "nonspace_characters": 14,
             "nonspace_character_fraction": 1.0,
-            "runs": 4,
-            "objects_containing": 4,
+            "runs": 2,
+            "objects_containing": 2,
             "slides_containing": 2,
             "slides": [
               1,
@@ -1106,12 +1106,12 @@
         "size_distribution": [
           {
             "value": 18.0,
-            "characters": 56,
+            "characters": 14,
             "character_fraction": 1.0,
-            "nonspace_characters": 52,
+            "nonspace_characters": 14,
             "nonspace_character_fraction": 1.0,
-            "runs": 4,
-            "objects_containing": 4,
+            "runs": 2,
+            "objects_containing": 2,
             "slides_containing": 2,
             "slides": [
               1,
@@ -1122,12 +1122,12 @@
         "color_distribution": [
           {
             "value": "FFFFFF",
-            "characters": 56,
+            "characters": 14,
             "character_fraction": 1.0,
-            "nonspace_characters": 52,
+            "nonspace_characters": 14,
             "nonspace_character_fraction": 1.0,
-            "runs": 4,
-            "objects_containing": 4,
+            "runs": 2,
+            "objects_containing": 2,
             "slides_containing": 2,
             "slides": [
               1,
@@ -1148,17 +1148,6 @@
             ]
           },
           {
-            "slide": 1,
-            "id": "10",
-            "text": "LIU Chang (125090409)",
-            "bounds_inches": [
-              9.05965,
-              5.348264,
-              3.808984,
-              0.403906
-            ]
-          },
-          {
             "slide": 13,
             "id": "8",
             "text": "AIE1903",
@@ -1166,17 +1155,6 @@
               9.879161,
               4.944358,
               2.957895,
-              0.403906
-            ]
-          },
-          {
-            "slide": 13,
-            "id": "10",
-            "text": "LIU Chang (125090409)",
-            "bounds_inches": [
-              9.05965,
-              5.348264,
-              3.808984,
               0.403906
             ]
           }
@@ -1355,13 +1333,13 @@
       "master_part": "ppt/slideMasters/slideMaster1.xml",
       "theme_part": "ppt/theme/theme1.xml",
       "object_count": 5,
-      "text_object_count": 3,
+      "text_object_count": 2,
       "image_count": 1,
       "black_rectangle_count": 1,
-      "character_count": 43,
-      "nonspace_character_count": 40,
-      "word_count_regex": 6,
-      "editable_text_box_union_slide_fraction": 0.45637410891542884,
+      "character_count": 22,
+      "nonspace_character_count": 21,
+      "word_count_regex": 3,
+      "editable_text_box_union_slide_fraction": 0.4461378392260839,
       "image_union_slide_fraction": 0.9999998541848936,
       "black_mask_coverage": {
         "union_slide_fraction": 0.4435087489063867,
@@ -2077,9 +2055,9 @@
               "object_id": "10",
               "paragraph_index": 1,
               "xpath": "/p:sld/p:cSld/p:spTree/p:sp[4]/p:txBody/a:p",
-              "text": "LIU Chang (125090409)",
-              "character_count": 21,
-              "nonempty": true,
+              "text": "",
+              "character_count": 0,
+              "nonempty": false,
               "level": 0,
               "direct_properties": {
                 "algn": "r"
@@ -2098,41 +2076,7 @@
                   "source": "paragraph"
                 }
               },
-              "runs": [
-                {
-                  "slide": 1,
-                  "object_id": "10",
-                  "paragraph_index": 1,
-                  "xpath": "/p:sld/p:cSld/p:spTree/p:sp[4]/p:txBody/a:p/a:r",
-                  "text": "LIU Chang (125090409)",
-                  "character_count": 21,
-                  "nonspace_character_count": 19,
-                  "is_math": false,
-                  "font_raw": "Elephant",
-                  "font": "Elephant",
-                  "font_source": "run",
-                  "size_pt": 18.0,
-                  "size_source": "master_otherStyle_level_default_run",
-                  "bold": false,
-                  "italic": false,
-                  "color": {
-                    "hex": "FFFFFF",
-                    "opacity": 1.0,
-                    "raw_kind": "schemeClr",
-                    "raw": {
-                      "val": "bg1"
-                    },
-                    "transforms": [],
-                    "unsupported_transforms": []
-                  },
-                  "color_source": "run",
-                  "direct_rpr": {
-                    "lang": "en-US",
-                    "altLang": "zh-CN",
-                    "dirty": "0"
-                  }
-                }
-              ],
+              "runs": [],
               "hanging_indent": false,
               "left_margin_pt": 0.0,
               "first_line_offset_pt": 0.0,
@@ -2154,41 +2098,7 @@
               }
             }
           ],
-          "runs": [
-            {
-              "slide": 1,
-              "object_id": "10",
-              "paragraph_index": 1,
-              "xpath": "/p:sld/p:cSld/p:spTree/p:sp[4]/p:txBody/a:p/a:r",
-              "text": "LIU Chang (125090409)",
-              "character_count": 21,
-              "nonspace_character_count": 19,
-              "is_math": false,
-              "font_raw": "Elephant",
-              "font": "Elephant",
-              "font_source": "run",
-              "size_pt": 18.0,
-              "size_source": "master_otherStyle_level_default_run",
-              "bold": false,
-              "italic": false,
-              "color": {
-                "hex": "FFFFFF",
-                "opacity": 1.0,
-                "raw_kind": "schemeClr",
-                "raw": {
-                  "val": "bg1"
-                },
-                "transforms": [],
-                "unsupported_transforms": []
-              },
-              "color_source": "run",
-              "direct_rpr": {
-                "lang": "en-US",
-                "altLang": "zh-CN",
-                "dirty": "0"
-              }
-            }
-          ],
+          "runs": [],
           "body_properties": {
             "wrap": "square",
             "rtlCol": "0"
@@ -2202,18 +2112,14 @@
             "tIns": 45720,
             "bIns": 45720
           },
-          "text": "LIU Chang (125090409)",
-          "character_count": 21,
-          "nonempty_text": true,
-          "font_character_distribution": {
-            "Elephant": 21
-          },
-          "dominant_font": "Elephant",
-          "size_character_distribution": {
-            "18.0": 21
-          },
-          "dominant_size_pt": 18.0,
-          "role_heuristic": "metadata"
+          "text": "",
+          "character_count": 0,
+          "nonempty_text": false,
+          "font_character_distribution": {},
+          "dominant_font": null,
+          "size_character_distribution": {},
+          "dominant_size_pt": null,
+          "role_heuristic": null
         }
       ]
     },
@@ -17521,13 +17427,13 @@
       "master_part": "ppt/slideMasters/slideMaster1.xml",
       "theme_part": "ppt/theme/theme1.xml",
       "object_count": 5,
-      "text_object_count": 3,
+      "text_object_count": 2,
       "image_count": 1,
       "black_rectangle_count": 1,
-      "character_count": 49,
-      "nonspace_character_count": 45,
-      "word_count_regex": 7,
-      "editable_text_box_union_slide_fraction": 0.45637410891542884,
+      "character_count": 28,
+      "nonspace_character_count": 26,
+      "word_count_regex": 4,
+      "editable_text_box_union_slide_fraction": 0.4461378392260839,
       "image_union_slide_fraction": 0.9999998541848936,
       "black_mask_coverage": {
         "union_slide_fraction": 0.4435087489063867,
@@ -18129,9 +18035,9 @@
               "object_id": "10",
               "paragraph_index": 1,
               "xpath": "/p:sld/p:cSld/p:spTree/p:sp[4]/p:txBody/a:p",
-              "text": "LIU Chang (125090409)",
-              "character_count": 21,
-              "nonempty": true,
+              "text": "",
+              "character_count": 0,
+              "nonempty": false,
               "level": 0,
               "direct_properties": {
                 "algn": "r"
@@ -18150,41 +18056,7 @@
                   "source": "paragraph"
                 }
               },
-              "runs": [
-                {
-                  "slide": 13,
-                  "object_id": "10",
-                  "paragraph_index": 1,
-                  "xpath": "/p:sld/p:cSld/p:spTree/p:sp[4]/p:txBody/a:p/a:r",
-                  "text": "LIU Chang (125090409)",
-                  "character_count": 21,
-                  "nonspace_character_count": 19,
-                  "is_math": false,
-                  "font_raw": "Elephant",
-                  "font": "Elephant",
-                  "font_source": "run",
-                  "size_pt": 18.0,
-                  "size_source": "master_otherStyle_level_default_run",
-                  "bold": false,
-                  "italic": false,
-                  "color": {
-                    "hex": "FFFFFF",
-                    "opacity": 1.0,
-                    "raw_kind": "schemeClr",
-                    "raw": {
-                      "val": "bg1"
-                    },
-                    "transforms": [],
-                    "unsupported_transforms": []
-                  },
-                  "color_source": "run",
-                  "direct_rpr": {
-                    "lang": "en-US",
-                    "altLang": "zh-CN",
-                    "dirty": "0"
-                  }
-                }
-              ],
+              "runs": [],
               "hanging_indent": false,
               "left_margin_pt": 0.0,
               "first_line_offset_pt": 0.0,
@@ -18206,41 +18078,7 @@
               }
             }
           ],
-          "runs": [
-            {
-              "slide": 13,
-              "object_id": "10",
-              "paragraph_index": 1,
-              "xpath": "/p:sld/p:cSld/p:spTree/p:sp[4]/p:txBody/a:p/a:r",
-              "text": "LIU Chang (125090409)",
-              "character_count": 21,
-              "nonspace_character_count": 19,
-              "is_math": false,
-              "font_raw": "Elephant",
-              "font": "Elephant",
-              "font_source": "run",
-              "size_pt": 18.0,
-              "size_source": "master_otherStyle_level_default_run",
-              "bold": false,
-              "italic": false,
-              "color": {
-                "hex": "FFFFFF",
-                "opacity": 1.0,
-                "raw_kind": "schemeClr",
-                "raw": {
-                  "val": "bg1"
-                },
-                "transforms": [],
-                "unsupported_transforms": []
-              },
-              "color_source": "run",
-              "direct_rpr": {
-                "lang": "en-US",
-                "altLang": "zh-CN",
-                "dirty": "0"
-              }
-            }
-          ],
+          "runs": [],
           "body_properties": {
             "wrap": "square",
             "rtlCol": "0"
@@ -18254,18 +18092,14 @@
             "tIns": 45720,
             "bIns": 45720
           },
-          "text": "LIU Chang (125090409)",
-          "character_count": 21,
-          "nonempty_text": true,
-          "font_character_distribution": {
-            "Elephant": 21
-          },
-          "dominant_font": "Elephant",
-          "size_character_distribution": {
-            "18.0": 21
-          },
-          "dominant_size_pt": 18.0,
-          "role_heuristic": "metadata"
+          "text": "",
+          "character_count": 0,
+          "nonempty_text": false,
+          "font_character_distribution": {},
+          "dominant_font": null,
+          "size_character_distribution": {},
+          "dominant_size_pt": null,
+          "role_heuristic": null
         }
       ]
     }

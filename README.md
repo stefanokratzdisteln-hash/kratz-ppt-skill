@@ -4,7 +4,9 @@
 
 制作前先收集标题与作者信息，提供至少 **5 幅不同的高清绘画候选**供用户选择；背景下载使用 **Full resolution / Original file**。同页多条内容中，第一条直接显示，后续逐次点击使用 PowerPoint 原生 **Appear（出现）** 动画。
 
-![13页参考演示的视觉总览](assets/reference-contact-sheet.png)
+![13页参考演示的视觉总览](assets/reference-contact-sheet.png?v=anonymized)
+
+公开参考稿及预览图已去除首页和末页的姓名、学号。
 
 ## 视觉规范
 

@@ -650,5 +650,6 @@
   "max_geometry_absolute_error_pt": 2.9912032459833426e-05,
   "all_object_nonspace_texts_equal": true,
   "com_shape_text_nonspace_total": 1796,
-  "xml_nonspace_total": 1796
+  "xml_nonspace_total": 1796,
+  "reference_version_note": "Historical cross-check for the original sample, before public-reference author redaction."
 }
