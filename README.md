@@ -6,8 +6,6 @@
 
 ![13页参考演示的视觉总览](assets/reference-contact-sheet.png?v=anonymized)
 
-公开参考稿及预览图已去除首页和末页的姓名、学号。
-
 ## 视觉规范
 
 | 项目 | 默认规则 |
